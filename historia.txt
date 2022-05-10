@@ -1,2 +1,4 @@
 Hola amigos este es mi primer Git desde la terminal
 My name is Enmanuel Baldonedo im 26 and i want to be an expert web developer
+
+No im practicing how to use Git

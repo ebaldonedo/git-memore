@@ -1,0 +1,27 @@
+[33mcommit 8bc477032e6571669ac6524e75155e951484a883[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Enmanuel Baldonedo <ebaldonedo@hotmail.com>
+Date:   Thu May 19 14:16:03 2022 -0400
+
+    We added new text
+    
+    By Enmanuel
+
+[33mcommit 4e4a9c97a44ec73963845bdf58d48a7f8ebbf9d9[m
+Author: Enmanuel Baldonedo <ebaldonedo@hotmail.com>
+Date:   Tue May 10 15:56:39 2022 -0400
+
+    we added a new line
+    
+    t Please enter the commit message for your changes. Lines starting
+
+[33mcommit 317ee610c21957fc7f4d1561bd594c0f9eae1977[m
+Author: Enmanuel Baldonedo <ebaldonedo@hotmail.com>
+Date:   Tue May 10 15:19:32 2022 -0400
+
+    This is the second commit using the tool add of GIT
+
+[33mcommit 0a4d58b46d51bad9c917eb1e2a53c1080ca6268b[m
+Author: Enmanuel Baldonedo <ebaldonedo@hotmail.com>
+Date:   Tue May 10 15:15:58 2022 -0400
+
+    This is the fist commit using Git
